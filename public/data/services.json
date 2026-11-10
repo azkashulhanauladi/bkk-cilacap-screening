@@ -1,0 +1,29 @@
+[
+  {
+    "id": "SRV-01",
+    "title": "Skrining Aktif Tuberkulosis (TB) Pelabuhan",
+    "category": "Skrining TB",
+    "target": "Awak Kapal (ABK) & Penumpang International/Domestik",
+    "duration": "15-30 Menit",
+    "description": "Pemeriksaan gejala klinis sistem respiratori, uji anamnesis riwayat kontak, dan rujukan Tes Cepat Molekuler (TCM) dahak untuk deteksi dini TB di area kekarantinaan pelabuhan.",
+    "icon": "Activity"
+  },
+  {
+    "id": "SRV-02",
+    "title": "Konseling & Tes VCT HIV Sukarela",
+    "category": "Tes VCT HIV",
+    "target": "Masyarakat Pelabuhan & Awak Kapal",
+    "duration": "20-45 Menit",
+    "description": "Layanan Voluntary Counseling and Testing (VCT) terintegrasi dengan jaminan kerahasiaan identitas 100%, mencakup konseling pra-tes, rapid test HIV, dan konseling pasca-tes.",
+    "icon": "ShieldCheck"
+  },
+  {
+    "id": "SRV-03",
+    "title": "Penerbitan Sertifikat Clearance Karantina",
+    "category": "Paspor Kesehatan",
+    "target": "Pelaut & Perjalanan Luar Negeri",
+    "duration": "1 Hari Kerja",
+    "description": "Verifikasi dokumen medis dan diterbitkannya e-sertifikat kelayakan karantina berbasis QR Code bagi personel kapal yang telah dinyatakan bebas TB dan HIV.",
+    "icon": "FileCheck"
+  }
+]
